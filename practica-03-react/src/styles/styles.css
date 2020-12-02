@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th {
+    width:25%;
+    text-align: left;
+    border: 2px solid;
+}
+.table-space {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.header-center {
+    text-align: center;
+}
+.space-left {
+    margin-left: 16%
+}
+.form-center-pregunta{
+    padding-left: 25%;
+}
